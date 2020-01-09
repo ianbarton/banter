@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://bantercat.co.uk/</loc>
+  <lastmod>2020-01-09T15:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bantercat.co.uk/2020-01-01-montane-windshirt/</loc>
+  <lastmod>2020-01-01T11:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bantercat.co.uk/about/</loc>
+  <lastmod>2020-01-01T11:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bantercat.co.uk/archive.html</loc>
+  <lastmod>2020-01-09T15:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bantercat.co.uk/blog/</loc>
+  <lastmod>2020-01-01T11:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bantercat.co.uk/categories/</loc>
+  <lastmod>2020-01-01T11:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bantercat.co.uk/galleries/</loc>
+  <lastmod>2020-01-01T11:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bantercat.co.uk/listings/</loc>
+  <lastmod>2020-01-01T11:03:00Z</lastmod>
+ </url>
+</urlset>
