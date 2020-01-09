@@ -18,13 +18,13 @@ NIKOLA_SHOW_TRACEBACKS=1
 
 # Data about this site
 BLOG_AUTHOR = "Ian Barton."  # (translatable)
-BLOG_TITLE = "Ian's  Blog."  # (translatable)
+BLOG_TITLE = "Cats."  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://bantercat.co.uk/"
+SITE_URL = "https://banter.bantercat.co.uk/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://bantercat.co.uk/"
+# BASE_URL = "https://banter.bantercat.co.uk/"
 BLOG_EMAIL = "ian@ianbarton.net"
 BLOG_DESCRIPTION = "Ian's Blog."  # (translatable)
 
