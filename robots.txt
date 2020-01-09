@@ -1,4 +1,4 @@
-Sitemap: https://bantercat.co.uk/sitemapindex.xml
+Sitemap: https://banter.bantercat.co.uk/sitemapindex.xml
 
 User-Agent: *
-Host: bantercat.co.uk
+Host: banter.bantercat.co.uk

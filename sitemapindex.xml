@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://bantercat.co.uk/galleries/rss.xml</loc>
-  <lastmod>2020-01-09T15:27:00Z</lastmod>
+  <loc>https://banter.bantercat.co.uk/galleries/rss.xml</loc>
+  <lastmod>2020-01-09T15:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://bantercat.co.uk/rss.xml</loc>
-  <lastmod>2020-01-09T15:27:00Z</lastmod>
+  <loc>https://banter.bantercat.co.uk/rss.xml</loc>
+  <lastmod>2020-01-09T15:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://bantercat.co.uk/sitemap.xml</loc>
-  <lastmod>2020-01-09T15:27:00Z</lastmod>
+  <loc>https://banter.bantercat.co.uk/sitemap.xml</loc>
+  <lastmod>2020-01-09T18:18:00Z</lastmod>
  </sitemap>
 </sitemapindex>
